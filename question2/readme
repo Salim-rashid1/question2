@@ -1,0 +1,12 @@
+# Django REST API for Product Management
+
+## Overview
+This Django REST API manages a `Product` resource with fields: `name`, `description`, and `price`.
+
+## Setup Instructions
+
+### Prerequisites
+- Python 3.8+
+- pip (Python package manager)
+
+
